@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**AnaliaRio/AnaliaRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name's Analía Río and I'm a Front-End Developer 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on my personal portfolio.
+
+- 🌱 I’m currently learning a little bit of everything.
+
+- 🤔 I’m looking for help with booking my first gig.
+
+- 💬 Ask me about yoga, nutrition or origami.
+
+- 📫 How to reach me: analia.rio@gmail.com.
+
+- 😄 Pronouns: she/her.
+
+- ⚡ Fun fact: I love learning languages.
