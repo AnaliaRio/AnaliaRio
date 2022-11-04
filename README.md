@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my personal portfolio.
+- 🔭 I’m currently working on getting better and better.
 
 - 🌱 I’m currently learning a little bit of everything.
 
