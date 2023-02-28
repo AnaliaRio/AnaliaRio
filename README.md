@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m working as as a front-end developer.
+- 🔭 I’m working as a front-end developer.
 
 - 🌱 I’m currently learning Angular, Typescript and Python.
 
