@@ -4,11 +4,9 @@
 
 
 
-- 🔭 I’m currently working on getting better and better.
+- 🔭 I’m working as as a front-end developer.
 
-- 🌱 I’m currently learning a little bit of everything.
-
-- 🤔 I’m looking for help with booking my first gig.
+- 🌱 I’m currently learning Angular, Typescript and Python.
 
 - 💬 Ask me about yoga, nutrition or origami.
 
